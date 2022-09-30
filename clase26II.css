@@ -1,0 +1,108 @@
+header {
+    display: grid;
+    background-color: rgb(53, 5, 37);
+    color: white;
+    font-weight: bold;
+}
+
+.data {
+    display: grid;
+    grid-column: end;
+    justify-items: left;
+}
+
+#menu {
+    background-color: rgb(200, 179, 204);
+    color: aliceblue;
+}
+
+.perfil {
+    size: 3px;
+    
+}
+
+main{
+    background-color: rgb(201, 188, 214);
+    color: white
+}
+
+h1 {
+    text-align: center;
+}
+
+.portafolio {
+    color: rgb(42, 42, 63);
+
+}
+
+img {
+    background-image: 15px;
+}
+
+
+ 
+.caja-hija3 {
+    background-color: rgb(42, 42, 63);
+    color:aliceblue;
+}
+
+.grid-content {
+    text-align: center;
+}
+
+#download {
+    background-color: rgb(200, 179, 204);
+    color: white;
+}
+
+.contenedor-padre {
+    display: grid;
+    grid-template-rows: auto;
+    background-color: rgb(42, 42, 63);
+
+}
+
+.street {
+    text-align: center;
+    color: white;
+}
+
+.city {
+    text-align: center;
+    color: white;
+}
+
+.caja-hija2 {
+    justify-content: center;
+    background-color: rgb(42, 42, 63);
+    color: whitesmoke;
+}
+
+.resumen {
+    text-align: center;
+    color:aliceblue;
+
+}
+.grid-content {
+    background-color: rgb(201, 188, 214);
+    color: aliceblue;
+}
+
+.send {
+    background-color: rgb(200, 179, 204);
+    color: whitesmoke;
+}
+
+footer {
+    background-color: rgb(51, 51, 200);
+    color: whitesmoke
+}
+
+.place {
+    color: white;
+    text-align: center;
+}
+
+.sobreMi {
+    text-align: center;
+}
